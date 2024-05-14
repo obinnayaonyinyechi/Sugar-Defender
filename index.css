@@ -64,6 +64,23 @@ header {
   margin-top: 0px;
 }
 
+.section-text1 {
+  margin-top: 140px;
+}
+
+.rate {
+  font-size: 20px;
+}
+
+.rate1 {
+  font-size: 20px;
+  margin-left: 120px;
+}
+
+.drop {
+  font-size: 20px;
+}
+
 .section-text, h2, .visit {
   padding: 20px 20px;
 }
@@ -85,6 +102,18 @@ header {
   border-radius: 20px;
   font-weight: 700;
   position: absolute;
+}
+
+.visit1 {
+  text-decoration: none;
+  background-color: #FF1628;
+  color: white;
+  line-height: normal;
+  padding: 15px 20px;
+  border-radius: 20px;
+  font-weight: 700;
+  position: absolute;
+  margin-left: 120px;
 }
 
 .visit:hover {
@@ -185,6 +214,22 @@ footer {
     margin-top: 0px;
   }
 
+  .rate {
+    font-size: 16px;
+    margin-left: -15px;
+  }
+  
+  .rate1 {
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: -120px;
+  }
+  
+  .drop {
+    font-size: 16px;
+    margin-left: -15px;
+  }
+
   .section-text, h2, .visit {
     padding: 5px 5px;
     margin-left: 25px;
@@ -207,8 +252,21 @@ footer {
     border-radius: 10px;
     font-weight: 600;
     position: absolute;
+    margin-left: -15px;
   }
   
+  .visit1 {
+    text-decoration: none;
+    background-color: #FF1628;
+    color: white;
+    line-height: normal;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 25px;
+  }
+
   .visit:hover {
     background-color: rgb(194, 17, 17);
   }
@@ -230,6 +288,7 @@ footer {
     width: auto;
     height: auto;
     margin-left: 25px;
+    margin-top: -25px;
   }
   
   footer {
@@ -293,6 +352,22 @@ footer {
     border-top: 8px solid #222222;
   }
   
+  .rate {
+    font-size: 16px;
+    margin-left: -15px;
+  }
+  
+  .rate1 {
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: -120px;
+  }
+  
+  .drop {
+    font-size: 16px;
+    margin-left: -15px;
+  }
+
   .section-text {
     margin-top: 0px;
   }
@@ -319,8 +394,21 @@ footer {
     border-radius: 10px;
     font-weight: 600;
     position: absolute;
+    margin-left: -15px;
   }
   
+  .visit1 {
+    text-decoration: none;
+    background-color: #FF1628;
+    color: white;
+    line-height: normal;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 25px;
+  }
+
   .visit:hover {
     background-color: rgb(194, 17, 17);
   }
@@ -406,6 +494,22 @@ footer {
     border-top: 8px solid #222222;
   }
   
+  .rate {
+    font-size: 16px;
+    margin-left: -15px;
+  }
+  
+  .rate1 {
+    font-size: 16px;
+    margin-left: 25px;
+    margin-top: -120px;
+  }
+  
+  .drop {
+    font-size: 16px;
+    margin-left: -15px;
+  }
+
   .section-text {
     margin-top: 0px;
   }
@@ -432,8 +536,21 @@ footer {
     border-radius: 10px;
     font-weight: 500;
     position: absolute;
+    margin-left: -15px;
   }
   
+  .visit1 {
+    text-decoration: none;
+    background-color: #FF1628;
+    color: white;
+    line-height: normal;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 25px;
+  }
+
   .visit:hover {
     background-color: rgb(194, 17, 17);
   }
@@ -527,6 +644,26 @@ footer {
     border-top: 8px solid #222222;
   }
 
+  .rate {
+    font-size: 25px;
+    margin-left: -30px;
+  }
+  
+  .rate1 {
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: -120px;
+  }
+  
+  .drop {
+    font-size: 20px;
+    margin-left: -30px;
+  }
+
+  .section-text {
+    margin-top: -22px;
+  }
+
   .section-text, h2, .visit {
     padding: 5px 5px;
     margin-left: 60px;
@@ -549,8 +686,21 @@ footer {
     border-radius: 20px;
     font-weight: 600;
     position: absolute;
+    margin-left: -25px;
   }
   
+  .visit1 {
+    text-decoration: none;
+    background-color: #FF1628;
+    color: white;
+    line-height: normal;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 25px;
+  }
+
   .visit:hover {
     background-color: rgb(194, 17, 17);
   }
@@ -644,9 +794,25 @@ footer {
     border-top: 8px solid #222222;
   }
   
-  .section-text {
-    margin-top: 140px;
+  .section-text1 {
+    margin-top: 290px;
   }
+  
+  .rate {
+    font-size: 20px;
+  }
+  
+  .rate1 {
+    font-size: 20px;
+    margin-left: 100px;
+  }
+  
+  .drop {
+    font-size: 20px;
+  }
+  /* .section-text {
+    margin-top: 140px;
+  } */
 
   .section-text, h2, .visit {
     padding: 5px 5px;
@@ -670,8 +836,21 @@ footer {
     border-radius: 20px;
     font-weight: 600;
     position: absolute;
+    margin-left: -30px;
   }
   
+  .visit1 {
+    text-decoration: none;
+    background-color: #FF1628;
+    color: white;
+    line-height: normal;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 100px;
+  }
+
   .visit:hover {
     background-color: rgb(194, 17, 17);
   }
